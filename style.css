@@ -1,0 +1,37 @@
+*{                       /* * is universal effect for accessing whole folder*/
+    padding: 0;
+    margin:0;
+    font-family: 'Cardo', serif;
+    background: linear-gradient(to bottom, #615cfd 0%, #d465ef 100%);
+}
+
+
+.backImg{
+  
+    background-color: #4541d0;
+    background-image: linear-gradient(43deg, #4541d0 0%, #b023c5 46%, #7e70ff 100%) !important;
+    background-size:cover;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    text-align: center;
+
+}
+
+img{  
+    height:300px;
+    border-radius:70%;
+    margin-bottom: 10px;
+}
+
+i{
+    color: white;
+}
+
+.profileText h2{
+    font-size:2em;
+}
+
+.profileText h4{
+    font-size:1.2em;
+}
